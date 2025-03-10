@@ -73,10 +73,11 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
   </a>
 </p>
 
-# New Icons
+# New Icons progress
 
-|      Icon ID       |                         Icon                          |
-| :----------------: | :---------------------------------------------------: |
+|      Icon ID       |                         Icon                          | Finished |
+| :----------------: | :---------------------------------------------------: | :------: |
+|                    |                                                       |          |
 
 # Icons List
 
