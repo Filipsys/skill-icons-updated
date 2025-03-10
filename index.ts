@@ -1,7 +1,8 @@
 import icons from "./dist/icons.json";
 
-const iconNameList = [...new Set(Object.keys(icons).map((i) => i.split("-")[0]))];
-const shortNames = {
+const typedIcons = icons as { [key: string]: string };
+const iconNameList = [...new Set(Object.keys(icons).map(i => i.split("-")[0]))];
+const shortNames: { [key: string]: string } = {
   js: "javascript",
   ts: "typescript",
   py: "python",
@@ -46,8 +47,8 @@ const shortNames = {
 
 const themedIcons = [
   ...Object.keys(icons)
-    .filter((i) => i.includes("-light") || i.includes("-dark"))
-    .map((i) => i.split("-")[0]),
+    .filter(i => i.includes("-light") || i.includes("-dark"))
+    .map(i => i.split("-")[0]),
 ];
 
 const ICONS_PER_LINE = 15;
@@ -55,7 +56,7 @@ const ONE_ICON = 48;
 const SCALE = ONE_ICON / (300 - 44);
 
 function generateSvg(iconNames: string[], perLine: number) {
-  const iconSvgList = iconNames.map((i) => icons[i]);
+  const iconSvgList = iconNames.map(i => typedIcons[i]);
 
   const length = Math.min(perLine * 300, iconNames.length * 300) - 44;
   const height = Math.ceil(iconSvgList.length / perLine) * 300 - 44;
@@ -68,7 +69,9 @@ function generateSvg(iconNames: string[], perLine: number) {
       .map(
         (i, index) =>
           `
-        <g transform="translate(${(index % perLine) * 300}, ${Math.floor(index / perLine) * 300})">
+        <g transform="translate(${(index % perLine) * 300}, ${
+            Math.floor(index / perLine) * 300
+          })">
           ${i}
         </g>
         `
@@ -80,11 +83,14 @@ function generateSvg(iconNames: string[], perLine: number) {
 
 function parseShortNames(names: string[], theme = "dark"): string[] {
   return names
-    .map((name) => {
+    .map(name => {
       if (iconNameList.includes(name)) {
         return name + (themedIcons.includes(name) ? `-${theme}` : "");
       } else if (name in shortNames) {
-        return shortNames[name] + (themedIcons.includes(shortNames[name]) ? `-${theme}` : "");
+        return (
+          shortNames[name] +
+          (themedIcons.includes(shortNames[name]) ? `-${theme}` : "")
+        );
       }
 
       return undefined;
@@ -93,14 +99,15 @@ function parseShortNames(names: string[], theme = "dark"): string[] {
 }
 
 export default {
-  async fetch(request: Request, env) {
+  async fetch(request: Request) {
     const { pathname, searchParams } = new URL(request.url);
 
     const path = pathname.replace(/^\/|\/$/g, "");
 
     if (path === "icons") {
       const iconParam = searchParams.get("i") || searchParams.get("icons");
-      if (!iconParam) return new Response("You didn't specify any icons!", { status: 400 });
+      if (!iconParam)
+        return new Response("You didn't specify any icons!", { status: 400 });
 
       const theme = searchParams.get("t") || searchParams.get("theme");
       if (theme && theme !== "dark" && theme !== "light") {
@@ -111,9 +118,12 @@ export default {
 
       const perLine = Number(searchParams.get("perline")) || ICONS_PER_LINE;
       if (isNaN(perLine) || perLine < -1 || perLine > 50) {
-        return new Response("Icons per line must be a number between 1 and 50", {
-          status: 400,
-        });
+        return new Response(
+          "Icons per line must be a number between 1 and 50",
+          {
+            status: 400,
+          }
+        );
       }
 
       let iconShortNames: string[] = [];
@@ -123,7 +133,10 @@ export default {
         iconShortNames = iconParam.split(",");
       }
 
-      const iconNames: string[] = parseShortNames(iconShortNames, theme || undefined);
+      const iconNames: string[] = parseShortNames(
+        iconShortNames,
+        theme || undefined
+      );
       if (!iconNames) {
         return new Response("You didn't format the icons param correctly!", {
           status: 400,
@@ -132,7 +145,9 @@ export default {
 
       const svg = generateSvg(iconNames, perLine);
 
-      return new Response(svg, { headers: { "Content-Type": "image/svg+xml" } });
+      return new Response(svg, {
+        headers: { "Content-Type": "image/svg+xml" },
+      });
     } else if (path === "api/icons") {
       return new Response(JSON.stringify(iconNameList), {
         headers: {

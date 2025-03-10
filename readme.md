@@ -3,12 +3,23 @@ Powered by Cloudflare Workers ⚡
 
 # Docs
 
+- [Showcase your skills on your GitHub or resumé with ease!](#showcase-your-skills-on-your-github-or-resumé-with-ease)
+- [Docs](#docs)
+- [TODO:](#todo)
 - [Example](#example)
 - [Specifying Icons](#specifying-icons)
 - [Themed Icons](#themed-icons)
 - [Icons Per Line](#icons-per-line)
 - [Centering Icons](#centering-icons)
+- [New Icons progress](#new-icons-progress)
 - [Icons List](#icons-list)
+
+# TODO:
+
+- [ ] Add most, if not all of the icons from the [skill-icons issues tab](https://github.com/tandpfun/skill-icons/issues).
+- [ ] Add support for customisable gaps/padding.
+- [ ] Remove the need for the SVGs to be kept on the worker, possibly host them in the repo.
+- [ ] Create a website for custom icon picking.
 
 # Example
 
