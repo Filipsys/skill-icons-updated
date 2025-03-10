@@ -1,3 +1,4 @@
+
 # Logs
 logs
 *.log
@@ -128,3 +129,7 @@ dist
 
 # Cloudflare Worker
 worker/
+.wrangler
+
+# Mac
+.DS_Store

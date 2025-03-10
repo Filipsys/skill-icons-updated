@@ -1,15 +1,17 @@
 {
-  "name": "skill-icons",
+  "name": "skill-icons-updated",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.ts",
   "license": "MIT",
   "scripts": {
-    "dev": "node build.js",
-    "build": "node build.js",
-    "deploy": "node build.js && wrangler publish"
+    "dev": "wrangler dev",
+    "build": "node build.ts",
+    "deploy-worker": "wrangler deploy",
+    "deploy": "node build.ts && wrangler publish"
   },
   "devDependencies": {
-    "@cloudflare/wrangler": "^1.19.8",
-    "prettier": "^2.5.1"
+    "@types/node": "^22.13.10",
+    "prettier": "^2.8.8",
+    "wrangler": "^3.114.0"
   }
 }
