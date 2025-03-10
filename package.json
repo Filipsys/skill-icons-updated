@@ -1,0 +1,21 @@
+{
+  "name": "skill-icons-updated",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "scripts": {
+    "dev": "wrangler dev",
+    "build": "bun run build.ts",
+    "deploy-worker": "wrangler deploy",
+    "deploy": "bun run build.ts && wrangler publish"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "@types/bun": "latest",
+    "prettier": "^2.8.8",
+    "wrangler": "^3.114.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
