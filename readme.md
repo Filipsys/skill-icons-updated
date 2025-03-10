@@ -99,7 +99,7 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 | `geogebra` |  | <ul><li>- [ ] </li></ul> |
 | `wolfram` |  | <ul><li>- [ ] </li></ul> |
 | `wsl` |  | <ul><li>- [ ] </li></ul> |
-| `compose` |  | <ul><li>- [ ] </li></ul> |
+| `jetpackcompose` |  | <ul><li>- [ ] </li></ul> |
 | `canva` |  | <ul><li>- [ ] </li></ul> |
 | `fivetran` |  | <ul><li>- [ ] </li></ul> |
 | `oracledb` |  | <ul><li>- [ ] </li></ul> |
@@ -122,7 +122,7 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 | `steam` |  | <ul><li>- [ ] </li></ul> |
 | `mariadb` |  | <ul><li>- [ ] </li></ul> |
 | `spline` |  | <ul><li>- [ ] </li></ul> |
-| `dockercompose` |  | <ul><li>- [ ] </li></ul> |
+| `dockerjetpack` |  | <ul><li>- [ ] </li></ul> |
 | `davinciresolve` |  | <ul><li>- [ ] </li></ul> |
 | `motoko` |  | <ul><li>- [ ] </li></ul> |
 | `framer` |  | <ul><li>- [ ] </li></ul> |
@@ -134,8 +134,6 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 | `cpanel` |  | <ul><li>- [ ] </li></ul> |
 | `intellijidea` |  | <ul><li>- [ ] </li></ul> |
 | `lightroom` |  | <ul><li>- [ ] </li></ul> |
-| `whatsapp` |  | <ul><li>- [ ] </li></ul> |
-| `facebook` |  | <ul><li>- [ ] </li></ul> |
 | `stata` |  | <ul><li>- [ ] </li></ul> |
 | `lottie` |  | <ul><li>- [ ] </li></ul> |
 | `pytest` |  | <ul><li>- [ ] </li></ul> |
@@ -145,9 +143,7 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 | `coolify` |  | <ul><li>- [ ] </li></ul> |
 | `gimp` |  | <ul><li>- [ ] </li></ul> |
 | `unocss` |  | <ul><li>- [ ] </li></ul> |
-| `telegram` |  | <ul><li>- [ ] </li></ul> |
 | `socketio` |  | <ul><li>- [ ] </li></ul> |
-| `sentry` |  | <ul><li>- [ ] </li></ul> |
 | `posthog` |  | <ul><li>- [ ] </li></ul> |
 | `passportjs` |  | <ul><li>- [ ] </li></ul> |
 | `appium` |  | <ul><li>- [ ] </li></ul> |
@@ -170,8 +166,6 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 | `sap` |  | <ul><li>- [ ] </li></ul> |
 | `abap` |  | <ul><li>- [ ] </li></ul> |
 | `assembly` |  | <ul><li>- [ ] </li></ul> |
-| `wasm` |  | <ul><li>- [ ] </li></ul> |
-| `django` |  | <ul><li>- [ ] </li></ul> |
 | `affinitydesigner` |  | <ul><li>- [ ] </li></ul> |
 | `affinityphoto` |  | <ul><li>- [ ] </li></ul> |
 | `affinitypublisher` |  | <ul><li>- [ ] </li></ul> |
@@ -181,7 +175,6 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 | `robotpy` |  | <ul><li>- [ ] </li></ul> |
 | `bruno` |  | <ul><li>- [ ] </li></ul> |
 | `objectivec` |  | <ul><li>- [ ] </li></ul> |
-| `bsd` |  | <ul><li>- [ ] </li></ul> |
 | `freebsd` |  | <ul><li>- [ ] </li></ul> |
 | `zeabur` |  | <ul><li>- [ ] </li></ul> |
 | `vuesticui` |  | <ul><li>- [ ] </li></ul> |
@@ -202,7 +195,6 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 | `nano` |  | <ul><li>- [ ] </li></ul> |
 | `fedora` |  | <ul><li>- [ ] </li></ul> |
 | `flatpak` |  | <ul><li>- [ ] </li></ul> |
-| `r` |  | <ul><li>- [ ] </li></ul> |
 | `hyprland` |  | <ul><li>- [ ] </li></ul> |
 | `sqlc` |  | <ul><li>- [ ] </li></ul> |
 | `typeorm` |  | <ul><li>- [ ] </li></ul> |
@@ -243,7 +235,6 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 | `zsh` |  | <ul><li>- [ ] </li></ul> |
 | `unicode` |  | <ul><li>- [ ] </li></ul> |
 | `love2d` |  | <ul><li>- [ ] </li></ul> |
-| `unrealengine` |  | <ul><li>- [ ] </li></ul> |
 | `pinescript` |  | <ul><li>- [ ] </li></ul> |
 | `huggingface` |  | <ul><li>- [ ] </li></ul> |
 | `timeshift` |  | <ul><li>- [ ] </li></ul> |
@@ -253,7 +244,6 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 | `r3r` |  | <ul><li>- [ ] </li></ul> |
 | `phoenix` |  | <ul><li>- [ ] </li></ul> |
 | `antdesign` |  | <ul><li>- [ ] </li></ul> |
-| `inertia` |  | <ul><li>- [ ] </li></ul> |
 | `karpenter` |  | <ul><li>- [ ] </li></ul> |
 | `twine` |  | <ul><li>- [ ] </li></ul> |
 | `ionic` |  | <ul><li>- [ ] </li></ul> |
@@ -312,7 +302,6 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 | `qmk` |  | <ul><li>- [ ] </li></ul> |
 | `yii` |  | <ul><li>- [ ] </li></ul> |
 | `dbeaver` |  | <ul><li>- [ ] </li></ul> |
-| `insomnia` |  | <ul><li>- [ ] </li></ul> |
 | `digitalocean` |  | <ul><li>- [ ] </li></ul> |
 | `planetscale` |  | <ul><li>- [ ] </li></ul> |
 | `neondb` |  | <ul><li>- [ ] </li></ul> |
@@ -329,7 +318,6 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 | `milvus` |  | <ul><li>- [ ] </li></ul> |
 | `opengl` |  | <ul><li>- [ ] </li></ul> |
 | `trpc` |  | <ul><li>- [ ] </li></ul> |
-| `streamlit` |  | <ul><li>- [ ] </li></ul> |
 | `holyc` |  | <ul><li>- [ ] </li></ul> |
 | `rubymine` |  | <ul><li>- [ ] </li></ul> |
 | `zoom` |  | <ul><li>- [ ] </li></ul> |
@@ -339,7 +327,6 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 | `twig` |  | <ul><li>- [ ] </li></ul> |
 | `opensuse` |  | <ul><li>- [ ] </li></ul> |
 | `joomla` |  | <ul><li>- [ ] </li></ul> |
-| `scikitlearn` |  | <ul><li>- [ ] </li></ul> |
 | `excel` |  | <ul><li>- [ ] </li></ul> |
 | `pocketbase` |  | <ul><li>- [ ] </li></ul> |
 | `scratch` |  | <ul><li>- [ ] </li></ul> |
@@ -355,21 +342,15 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 | `odoo` |  | <ul><li>- [ ] </li></ul> |
 | `fastify` |  | <ul><li>- [ ] </li></ul> |
 | `typst` |  | <ul><li>- [ ] </li></ul> |
-| `hono` |  | <ul><li>- [ ] </li></ul> |
 | `springboot` |  | <ul><li>- [ ] </li></ul> |
 | `warp` |  | <ul><li>- [ ] </li></ul> |
 | `lvgl` |  | <ul><li>- [ ] </li></ul> |
-| `socketio` |  | <ul><li>- [ ] </li></ul> |
 | `adobefonts` |  | <ul><li>- [ ] </li></ul> |
-| `androidstudio` |  | <ul><li>- [ ] </li></ul> |
 | `dreamweaver` |  | <ul><li>- [ ] </li></ul> |
 | `homeassistant` |  | <ul><li>- [ ] </li></ul> |
-| `astro` |  | <ul><li>- [ ] </li></ul> |
 | `blazejs` |  | <ul><li>- [ ] </li></ul> |
-| `nestjs` |  | <ul><li>- [ ] </li></ul> |
 | `payloadcms` |  | <ul><li>- [ ] </li></ul> |
 | `expo` |  | <ul><li>- [ ] </li></ul> |
-| `bitbucket` |  | <ul><li>- [ ] </li></ul> |
 | `grails` |  | <ul><li>- [ ] </li></ul> |
 | `cobol` |  | <ul><li>- [ ] </li></ul> |
 | `capacitor` |  | <ul><li>- [ ] </li></ul> |
@@ -379,35 +360,24 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 | `codesandbox` |  | <ul><li>- [ ] </li></ul> |
 | `kofi` |  | <ul><li>- [ ] </li></ul> |
 | `wireshark` |  | <ul><li>- [ ] </li></ul> |
-| `solidjs` |  | <ul><li>- [ ] </li></ul> |
 | `solidstart` |  | <ul><li>- [ ] </li></ul> |
 | `knexjs` |  | <ul><li>- [ ] </li></ul> |
 | `mantine` |  | <ul><li>- [ ] </li></ul> |
 | `gin` |  | <ul><li>- [ ] </li></ul> |
 | `javafx` |  | <ul><li>- [ ] </li></ul> |
 | `drawio` |  | <ul><li>- [ ] </li></ul> |
-| `clion` |  | <ul><li>- [ ] </li></ul> |
 | `virtualbox` |  | <ul><li>- [ ] </li></ul> |
-| `vuejs` |  | <ul><li>- [ ] </li></ul> |
 | `codeblocks` |  | <ul><li>- [ ] </li></ul> |
 | `reactquery` |  | <ul><li>- [ ] </li></ul> |
-| `notion` |  | <ul><li>- [ ] </li></ul> |
-| `freecodecamp` |  | <ul><li>- [ ] </li></ul> |
 | `erlang` |  | <ul><li>- [ ] </li></ul> |
-| `deno` |  | <ul><li>- [ ] </li></ul> |
 | `turbopack` |  | <ul><li>- [ ] </li></ul> |
-| `opencv` |  | <ul><li>- [ ] </li></ul> |
 | `jupyternotebook` |  | <ul><li>- [ ] </li></ul> |
 | `applescript` |  | <ul><li>- [ ] </li></ul> |
 | `lisp` |  | <ul><li>- [ ] </li></ul> |
 | `vscinsiders` |  | <ul><li>- [ ] </li></ul> |
 | `sublimetext` |  | <ul><li>- [ ] </li></ul> |
 | `sveltekit` |  | <ul><li>- [ ] </li></ul> |
-| `svelte` |  | <ul><li>- [ ] </li></ul> |
-| `phpstorm` |  | <ul><li>- [ ] </li></ul> |
-| `npm` |  | <ul><li>- [ ] </li></ul> |
 | `jsr` |  | <ul><li>- [ ] </li></ul> |
-| `yarn` |  | <ul><li>- [ ] </li></ul> |
 | `tmux` |  | <ul><li>- [ ] </li></ul> |
 | `testcontainers` |  | <ul><li>- [ ] </li></ul> |
 | `zod` |  | <ul><li>- [ ] </li></ul> |
@@ -419,27 +389,22 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 | `nextauth` |  | <ul><li>- [ ] </li></ul> |
 | `googlebigquery` |  | <ul><li>- [ ] </li></ul> |
 | `julia` |  | <ul><li>- [ ] </li></ul> |
-| `postgres` |  | <ul><li>- [ ] </li></ul> |
 | `opentelemetry` |  | <ul><li>- [ ] </li></ul> |
 | `elm` |  | <ul><li>- [ ] </li></ul> |
 | `flyio` |  | <ul><li>- [ ] </li></ul> |
 | `webrtc` |  | <ul><li>- [ ] </li></ul> |
 | `kaggle` |  | <ul><li>- [ ] </li></ul> |
-| `linkedin` |  | <ul><li>- [ ] </li></ul> |
 | `vb` |  | <ul><li>- [ ] </li></ul> |
 | `vba` |  | <ul><li>- [ ] </li></ul> |
 | `vbscript` |  | <ul><li>- [ ] </li></ul> |
 | `delphi` |  | <ul><li>- [ ] </li></ul> |
 | `reatom` |  | <ul><li>- [ ] </li></ul> |
-| `discordjs` |  | <ul><li>- [ ] </li></ul> |
 | `scylladb` |  | <ul><li>- [ ] </li></ul> |
 | `ajax` |  | <ul><li>- [ ] </li></ul> |
 | `mui` |  | <ul><li>- [ ] </li></ul> |
-| `apple` |  | <ul><li>- [ ] </li></ul> |
 | `protobuf` |  | <ul><li>- [ ] </li></ul> |
 | `grpc` |  | <ul><li>- [ ] </li></ul> |
 | `clickhouse` |  | <ul><li>- [ ] </li></ul> |
-| `postman` |  | <ul><li>- [ ] </li></ul> |
 | `postcss` |  | <ul><li>- [ ] </li></ul> |
 | `fontawesome` |  | <ul><li>- [ ] </li></ul> |
 | `hexo` |  | <ul><li>- [ ] </li></ul> |
@@ -471,8 +436,8 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 
 Here's a list of all the icons currently supported. Feel free to open an issue to suggest icons to add!
 
-|      Icon ID       |                         Icon                          |
-| :----------------: | :---------------------------------------------------: |
+|      Icon ID       |  Icon  |
+| :----------------: | :----: |
 |     `ableton`      | <img src="./icons/dark/Ableton-Dark.svg" width="48"> |
 |   `activitypub`    | <img src="./icons/dark/ActivityPub-Dark.svg" width="48"> |
 |      `actix`       | <img src="./icons/dark/Actix-Dark.svg" width="48"> |
@@ -613,7 +578,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `obsidian`     | <img src="./icons/dark/Obsidian-Dark.svg" width="48"> |
 |      `ocaml`       | <img src="./icons/single/OCaml.svg" width="48"> |
 |      `octave`      | <img src="./icons/dark/Octave-Dark.svg" width="48"> |
-|      `opencv`      | <img src="./icons/dark/OpenCV-Dark.svg" width="48"> |
+|      ``      | <img src="./icons/dark/-Dark.svg" width="48"> |
 |    `openshift`     | <img src="./icons/OpenShift.svg" width="48"> |
 |    `openstack`     | <img src="./icons/dark/OpenStack-Dark.svg" width="48"> |
 |       `p5js`       | <img src="./icons/single/p5js.svg" width="48"> |
