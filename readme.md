@@ -1,20 +1,26 @@
-# Showcase your skills on your GitHub or resumé with ease!
-
+<h1>Showcase your skills on your GitHub or resumé with ease!</h1>
 Powered by Cloudflare Workers ⚡
 
-# Docs
+# Table of contents
 
-- [Showcase your skills on your GitHub or resumé with ease!](#showcase-your-skills-on-your-github-or-resumé-with-ease)
-- [Docs](#docs)
+- [Table of contents](#table-of-contents)
 - [TODO:](#todo)
-- [Example](#example)
-- [Specifying Icons](#specifying-icons)
+- [The setup process](#the-setup-process)
+  - [The syntax](#the-syntax)
+  - [Selecting icons](#selecting-icons)
+  - [Customising the icons](#customising-the-icons)
+    - [Padding](#padding)
+    - [Gaps](#gaps)
+    - [Sizing](#sizing)
+    - [Orientation](#orientation)
+    - [Clickable icons](#clickable-icons)
 - [Themed Icons](#themed-icons)
 - [Icons Per Line](#icons-per-line)
 - [Centering Icons](#centering-icons)
 - [New icons progress](#new-icons-progress)
 - [New versions of icons to update](#new-versions-of-icons-to-update)
 - [Icons List](#icons-list)
+- [Self-hosting your own Clouflare worker](#self-hosting-your-own-clouflare-worker)
 
 # TODO:
 
@@ -25,23 +31,95 @@ Powered by Cloudflare Workers ⚡
 - [ ] Possible auto light/dark theme mode.
 - [ ] Remove the need for the SVGs to be kept on the worker, possibly host them in the repo.
 - [ ] Create a website for custom icon picking.
+- [ ] Add all the links to the icons corresponding to the tool/language.
 
-# Example
+# The setup process
 
-<p align="center"><img align="center" src="./.github/example-dark.png#gh-dark-mode-only"/></p>
-<p align="center"><img align="center" src="./.github/example-light.png#gh-light-mode-only"/></p>
+## The syntax
 
-# Specifying Icons
+The SVG can be embedded in two main ways, using Markdown or HTML. Both have the same result.
 
-Copy and paste the code block below into your readme to add the skills icon element!
-
-Change the `?i=js,html,css` to a list of your skills separated by ","s! You can find a full list of icons [here](#icons-list).
+Markdown:
 
 ```md
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+![](https://icon-worker.filipsysak.workers.dev/icons?i=js,html,css)
 ```
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+HTML:
+
+```html
+<img src="https://icon-worker.filipsysak.workers.dev/icons?i=js,html,css" />
+```
+
+Result:<br>
+![](https://icon-worker.filipsysak.workers.dev/icons?i=js,html,css)<br>
+<img src="https://icon-worker.filipsysak.workers.dev/icons?i=js,html,css" />
+
+## Selecting icons
+
+Icons are separated using commas, after the `?i=` parameter. You can find a full list of icons [here](#icons-list).
+Example: `?i=js,html,css`
+
+```md
+![](https://icon-worker.filipsysak.workers.dev/icons?i=js,html,css)
+```
+
+Result:<br>
+![](https://icon-worker.filipsysak.workers.dev/icons?i=js,html,css)
+
+## Customising the icons
+
+There are a couple of options for customisablity currently available, including padding, gaps, sizing, orientation and clickable icons.
+
+All parameters have an alias which will work the same as the longhand name.
+
+### Padding
+
+Padding can be added to the icons by appending `&p=` or `&padding=` to the link and adding the number in pixels.
+The default size is set to `0`.
+
+Example: `.../icons?i=rust,go&p=50`
+
+Result:<br>
+![](https://icon-worker.filipsysak.workers.dev/icons?i=rust,go&p=50)
+
+### Gaps
+
+Gaps can be added between the icons by appending `&g=` or `&gap=` to the link and adding the number in pixels. The default size is set to `0`.
+
+Example: `.../icons?i=rust,go&g=50`
+
+Result:<br>
+![](https://icon-worker.filipsysak.workers.dev/icons?i=rust,go&g=50)
+
+### Sizing
+
+Sizing can be added to the icons by appending `&s=` or `&size=` to the link and adding the number in pixels. The default size is set to `48`.
+
+Example: `.../icons?i=rust,go&s=30`
+
+Result:<br>
+![](https://icon-worker.filipsysak.workers.dev/icons?i=rust,go&s=30)
+
+### Orientation
+
+Orientation can be added to the icons by appending a `&v` or `&vertical` to the link. This parameter will make all icons vertical. The default orientation is horizontal.
+
+Example: `.../icons?i=rust,go&v`
+
+Result:<br>
+![](https://icon-worker.filipsysak.workers.dev/icons?i=rust,go&v)
+
+### Clickable icons
+
+Icons can be clickable by appending `&c` or `&clickable` to the link. This parameter will enable icons to be clickable.
+
+The link locations are yet to be added as a custom option. Icon links are also yet to be added.
+
+Example: `.../icons?i=rust,go&v&c`
+
+Result:<br>
+![](https://icon-worker.filipsysak.workers.dev/icons?i=rust,go&c)
 
 # Themed Icons
 
@@ -66,10 +144,10 @@ You can specify how many icons you would like per line! It's an optional argumen
 Change the `&perline=3` to any number between 1 and 50.
 
 ```md
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 ```
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 # Centering Icons
 
@@ -675,3 +753,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `yarn`       |     <img src="./icons/dark/Yarn-Dark.svg" width="48">      |
 |       `yew`        |      <img src="./icons/dark/Yew-Dark.svg" width="48">      |
 |       `zig`        |      <img src="./icons/dark/Zig-Dark.svg" width="48">      |
+
+# Self-hosting your own Clouflare worker
+
+TODO readme :]
