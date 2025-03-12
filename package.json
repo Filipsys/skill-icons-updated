@@ -7,7 +7,7 @@
     "dev": "wrangler dev",
     "build": "bun run build.ts",
     "deploy-worker": "wrangler deploy",
-    "deploy": "bun run build.ts && wrangler publish"
+    "deploy": "bun run build.ts && wrangler deploy"
   },
   "devDependencies": {
     "@types/node": "^22.13.10",

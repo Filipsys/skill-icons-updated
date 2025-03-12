@@ -52,31 +52,61 @@ const themedIcons = [
 ];
 
 const ICONS_PER_LINE = 15;
+const ICON_SIZE = 256;
 const ONE_ICON = 48;
-const SCALE = ONE_ICON / (300 - 44);
 
-function generateSvg(iconNames: string[], perLine: number) {
-  const iconSvgList = iconNames.map(i => typedIcons[i]);
+function generateSvg(props: {
+  iconNames: string[];
+  perLine?: number;
+  gap?: number;
+  padding?: number;
+  sizing?: number;
+  isVertical?: boolean;
+  isClickable?: boolean;
+}) {
+  const iconSvgList = props.iconNames.map(i => typedIcons[i]);
+  const perLine = props.isVertical ? 1 : (props.perLine ??= ICONS_PER_LINE);
+  const gap = (props.gap ??= 20);
+  const padding = (props.padding ??= 0);
+  const clickable = (props.isClickable ??= false);
+  const sizing = (props.sizing ??= ONE_ICON) === 0 ? ONE_ICON : props.sizing;
+  const SCALE = sizing / ICON_SIZE;
 
-  const length = Math.min(perLine * 300, iconNames.length * 300) - 44;
-  const height = Math.ceil(iconSvgList.length / perLine) * 300 - 44;
-  const scaledHeight = height * SCALE;
-  const scaledWidth = length * SCALE;
+  const rows = Math.ceil(props.iconNames.length / perLine);
+  const columns = !props.isVertical
+    ? Math.min(perLine, props.iconNames.length)
+    : 1;
+  const horizontalGapLength = (columns - 1) * gap;
+  const verticalGapLength = (rows - 1) * gap;
+
+  const width = columns * ICON_SIZE + horizontalGapLength + padding * 2;
+  const height = rows * ICON_SIZE + verticalGapLength + padding * 2;
 
   return `
-  <svg width="${scaledWidth}" height="${scaledHeight}" viewBox="0 0 ${length} ${height}" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+    <svg
+      width="${width * SCALE}"
+      height="${height * SCALE}" viewBox="0 0 ${width} ${height}"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
     ${iconSvgList
       .map(
         (i, index) =>
           `
-        <g transform="translate(${(index % perLine) * 300}, ${
-            Math.floor(index / perLine) * 300
+        <g transform="translate(${
+          !props.isVertical
+            ? (index % perLine) * (ICON_SIZE + gap) + padding
+            : padding
+        }, ${
+            props.isVertical
+              ? Math.floor(index / perLine) * (ICON_SIZE + gap) + padding
+              : Math.floor(index / perLine) * ICON_SIZE + padding
           })">
-          ${i}
+          ${clickable ? `<a href="">${i}</a>` : `${i}`}
         </g>
         `
       )
-      .join(" ")}
+      .join("")}
   </svg>
   `;
 }
@@ -143,7 +173,46 @@ export default {
         });
       }
 
-      const svg = generateSvg(iconNames, perLine);
+      const gapParam = Number(searchParams.get("g") || searchParams.get("gap"));
+      if (isNaN(gapParam) || gapParam < -1) {
+        return new Response("Invalid gap parameter", {
+          status: 400,
+        });
+      }
+
+      const paddingParam = Number(
+        searchParams.get("p") || searchParams.get("padding")
+      );
+      if (isNaN(paddingParam) || paddingParam < -1) {
+        return new Response("Invalid padding parameter", {
+          status: 400,
+        });
+      }
+
+      const sizingParam = Number(
+        searchParams.get("s") || searchParams.get("size")
+      );
+      if (isNaN(sizingParam) || sizingParam < -1) {
+        return new Response("Invalid sizing parameter", {
+          status: 400,
+        });
+      }
+
+      const paramsAsString = searchParams.toString();
+      const clickableParam =
+        paramsAsString.includes("&c") || paramsAsString.includes("&clickable");
+      const verticalParam =
+        paramsAsString.includes("&v") || paramsAsString.includes("&vertical");
+
+      const svg = generateSvg({
+        iconNames: iconNames,
+        perLine: perLine,
+        gap: gapParam,
+        padding: paddingParam,
+        sizing: sizingParam,
+        isClickable: clickableParam,
+        isVertical: verticalParam,
+      });
 
       return new Response(svg, {
         headers: { "Content-Type": "image/svg+xml" },
