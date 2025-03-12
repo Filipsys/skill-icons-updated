@@ -116,7 +116,7 @@ Icons can be clickable by appending `&c` or `&clickable` to the link. This param
 
 The link locations are yet to be added as a custom option. Icon links are also yet to be added.
 
-Example: `.../icons?i=rust,go&v&c`
+Example: `.../icons?i=rust,go&c`
 
 Result:<br>
 ![](https://icon-worker.filipsysak.workers.dev/icons?i=rust,go&c)
@@ -521,7 +521,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |   `activitypub`    |  <img src="./icons/dark/ActivityPub-Dark.svg" width="48">  |
 |      `actix`       |     <img src="./icons/dark/Actix-Dark.svg" width="48">     |
 |      `adonis`      |      <img src="./icons/single/Adonis.svg" width="48">      |
-|        `ae`        |      <img src="./icons/AfterEffects.svg" width="48">       |
+|        `ae`        |   <img src="./icons/single/AfterEffects.svg" width="48">   |
 |     `aiscript`     |   <img src="./icons/dark/AiScript-Dark.svg" width="48">    |
 |     `alpinejs`     |   <img src="./icons/dark/AlpineJS-Dark.svg" width="48">    |
 |     `anaconda`     |   <img src="./icons/dark/Anaconda-Dark.svg" width="48">    |
@@ -574,7 +574,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `dotnet`      |      <img src="./icons/single/DotNet.svg" width="48">      |
 |     `dynamodb`     |   <img src="./icons/dark/DynamoDB-Dark.svg" width="48">    |
 |     `eclipse`      |    <img src="./icons/dark/Eclipse-Dark.svg" width="48">    |
-|  `elasticsearch`   | <img src="./icons/dark/Elasticsearch-Dark.svg" width="48>  |
+|  `elasticsearch`   | <img src="./icons/dark/Elasticsearch-Dark.svg" width="48"> |
 |     `electron`     |     <img src="./icons/single/Electron.svg" width="48">     |
 |      `elixir`      |    <img src="./icons/dark/Elixir-Dark.svg" width="48">     |
 |      `elysia`      |    <img src="./icons/dark/Elysia-Dark.svg" width="48">     |
@@ -595,7 +595,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `gcp`        |      <img src="./icons/dark/GCP-Dark.svg" width="48">      |
 |       `git`        |       <img src="./icons/single/Git.svg" width="48">        |
 |      `github`      |    <img src="./icons/dark/Github-Dark.svg" width="48">     |
-|  `githubactions`   | <img src="./icons/dark/GithubActions-Dark.svg" width="48>  |
+|  `githubactions`   | <img src="./icons/dark/GithubActions-Dark.svg" width="48"> |
 |      `gitlab`      |    <img src="./icons/dark/GitLab-Dark.svg" width="48">     |
 |      `gmail`       |     <img src="./icons/dark/Gmail-Dark.svg" width="48">     |
 |     `gherkin`      |    <img src="./icons/dark/Gherkin-Dark.svg" width="48">    |
@@ -704,7 +704,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `sass`       |       <img src="./icons/single/Sass.svg" width="48">       |
 |      `spring`      |    <img src="./icons/dark/Spring-Dark.svg" width="48">     |
 |      `sqlite`      |      <img src="./icons/single/SQLite.svg" width="48">      |
-|  `stackoverflow`   | <img src="./icons/dark/StackOverflow-Dark.svg" width="48>  |
+|  `stackoverflow`   | <img src="./icons/dark/StackOverflow-Dark.svg" width="48"> |
 | `styledcomponents` | <img src="./icons/single/StyledComponents.svg" width="48"> |
 |     `sublime`      |    <img src="./icons/dark/Sublime-Dark.svg" width="48">    |
 |     `supabase`     |   <img src="./icons/dark/Supabase-Dark.svg" width="48">    |
