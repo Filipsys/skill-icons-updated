@@ -78,6 +78,7 @@ function generateSvg(props: {
     : 1;
   const horizontalGapLength = (columns - 1) * gap;
   const verticalGapLength = (rows - 1) * gap;
+  const rowGap = rows > 1 ? gap : 0;
 
   const width = columns * ICON_SIZE + horizontalGapLength + padding * 2;
   const height = rows * ICON_SIZE + verticalGapLength + padding * 2;
@@ -100,7 +101,9 @@ function generateSvg(props: {
         }, ${
             props.isVertical
               ? Math.floor(index / perLine) * (ICON_SIZE + gap) + padding
-              : Math.floor(index / perLine) * ICON_SIZE + padding
+              : Math.floor(index / perLine) * ICON_SIZE +
+                padding +
+                Math.floor(index / perLine) * rowGap
           })">
           ${clickable ? `<a href="">${i}</a>` : `${i}`}
         </g>
@@ -131,7 +134,6 @@ function parseShortNames(names: string[], theme = "dark"): string[] {
 export default {
   async fetch(request: Request) {
     const { pathname, searchParams } = new URL(request.url);
-
     const path = pathname.replace(/^\/|\/$/g, "");
 
     if (path === "icons") {
