@@ -167,349 +167,348 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
   </a>
 </p>
 
-# New icons progress
-
-|       Icon ID        | Icon |         Finished         |
-| :------------------: | :--: | :----------------------: |
-|        `hono`        |      | <ul><li>- [ ] </li></ul> |
-|      `vagrant`       |      | <ul><li>- [ ] </li></ul> |
-|       `fiber`        |      | <ul><li>- [ ] </li></ul> |
-|       `medium`       |      | <ul><li>- [ ] </li></ul> |
-|      `geogebra`      |      | <ul><li>- [ ] </li></ul> |
-|      `wolfram`       |      | <ul><li>- [ ] </li></ul> |
-|        `wsl`         |      | <ul><li>- [ ] </li></ul> |
-|   `jetpackcompose`   |      | <ul><li>- [ ] </li></ul> |
-|       `canva`        |      | <ul><li>- [ ] </li></ul> |
-|      `fivetran`      |      | <ul><li>- [ ] </li></ul> |
-|      `oracledb`      |      | <ul><li>- [ ] </li></ul> |
-|       `mssql`        |      | <ul><li>- [ ] </li></ul> |
-|      `tableau`       |      | <ul><li>- [ ] </li></ul> |
-|       `msdos`        |      | <ul><li>- [ ] </li></ul> |
-|     `inertiajs`      |      | <ul><li>- [ ] </li></ul> |
-|     `servicenow`     |      | <ul><li>- [ ] </li></ul> |
-|    `flutterflow`     |      | <ul><li>- [ ] </li></ul> |
-|      `netbeans`      |      | <ul><li>- [ ] </li></ul> |
-|        `bsky`        |      | <ul><li>- [ ] </li></ul> |
-|      `youtube`       |      | <ul><li>- [ ] </li></ul> |
-|        `helm`        |      | <ul><li>- [ ] </li></ul> |
-|     `playcanvas`     |      | <ul><li>- [ ] </li></ul> |
-|        `stan`        |      | <ul><li>- [ ] </li></ul> |
-|       `xhtml`        |      | <ul><li>- [ ] </li></ul> |
-|       `payara`       |      | <ul><li>- [ ] </li></ul> |
-|       `testng`       |      | <ul><li>- [ ] </li></ul> |
-|      `fastlane`      |      | <ul><li>- [ ] </li></ul> |
-|       `steam`        |      | <ul><li>- [ ] </li></ul> |
-|      `mariadb`       |      | <ul><li>- [ ] </li></ul> |
-|       `spline`       |      | <ul><li>- [ ] </li></ul> |
-|   `dockerjetpack`    |      | <ul><li>- [ ] </li></ul> |
-|   `davinciresolve`   |      | <ul><li>- [ ] </li></ul> |
-|       `motoko`       |      | <ul><li>- [ ] </li></ul> |
-|       `framer`       |      | <ul><li>- [ ] </li></ul> |
-|     `devextreme`     |      | <ul><li>- [ ] </li></ul> |
-|      `hashnode`      |      | <ul><li>- [ ] </li></ul> |
-|    `reactnative`     |      | <ul><li>- [ ] </li></ul> |
-|      `vegaspro`      |      | <ul><li>- [ ] </li></ul> |
-|        `pwa`         |      | <ul><li>- [ ] </li></ul> |
-|       `cpanel`       |      | <ul><li>- [ ] </li></ul> |
-|    `intellijidea`    |      | <ul><li>- [ ] </li></ul> |
-|     `lightroom`      |      | <ul><li>- [ ] </li></ul> |
-|       `stata`        |      | <ul><li>- [ ] </li></ul> |
-|       `lottie`       |      | <ul><li>- [ ] </li></ul> |
-|       `pytest`       |      | <ul><li>- [ ] </li></ul> |
-|      `leetcode`      |      | <ul><li>- [ ] </li></ul> |
-|      `navicat`       |      | <ul><li>- [ ] </li></ul> |
-|       `argocd`       |      | <ul><li>- [ ] </li></ul> |
-|      `coolify`       |      | <ul><li>- [ ] </li></ul> |
-|        `gimp`        |      | <ul><li>- [ ] </li></ul> |
-|       `unocss`       |      | <ul><li>- [ ] </li></ul> |
-|      `socketio`      |      | <ul><li>- [ ] </li></ul> |
-|      `posthog`       |      | <ul><li>- [ ] </li></ul> |
-|     `passportjs`     |      | <ul><li>- [ ] </li></ul> |
-|       `appium`       |      | <ul><li>- [ ] </li></ul> |
-|     `snowflake`      |      | <ul><li>- [ ] </li></ul> |
-|        `dbt`         |      | <ul><li>- [ ] </li></ul> |
-|       `xampp`        |      | <ul><li>- [ ] </li></ul> |
-|       `eslint`       |      | <ul><li>- [ ] </li></ul> |
-|     `playwright`     |      | <ul><li>- [ ] </li></ul> |
-|       `rspack`       |      | <ul><li>- [ ] </li></ul> |
-|      `rsbuild`       |      | <ul><li>- [ ] </li></ul> |
-|     `storybook`      |      | <ul><li>- [ ] </li></ul> |
-|      `mermaid`       |      | <ul><li>- [ ] </li></ul> |
-|       `neo4j`        |      | <ul><li>- [ ] </li></ul> |
-|        `jwt`         |      | <ul><li>- [ ] </li></ul> |
-|     `skeletonui`     |      | <ul><li>- [ ] </li></ul> |
-|      `twillio`       |      | <ul><li>- [ ] </li></ul> |
-|     `streamlit`      |      | <ul><li>- [ ] </li></ul> |
-|      `insomnia`      |      | <ul><li>- [ ] </li></ul> |
-|      `flstudio`      |      | <ul><li>- [ ] </li></ul> |
-|        `sap`         |      | <ul><li>- [ ] </li></ul> |
-|        `abap`        |      | <ul><li>- [ ] </li></ul> |
-|      `assembly`      |      | <ul><li>- [ ] </li></ul> |
-|  `affinitydesigner`  |      | <ul><li>- [ ] </li></ul> |
-|   `affinityphoto`    |      | <ul><li>- [ ] </li></ul> |
-| `affinitypublisher`  |      | <ul><li>- [ ] </li></ul> |
-|      `inkscape`      |      | <ul><li>- [ ] </li></ul> |
-|     `fusion360`      |      | <ul><li>- [ ] </li></ul> |
-|      `gromacs`       |      | <ul><li>- [ ] </li></ul> |
-|      `robotpy`       |      | <ul><li>- [ ] </li></ul> |
-|       `bruno`        |      | <ul><li>- [ ] </li></ul> |
-|     `objectivec`     |      | <ul><li>- [ ] </li></ul> |
-|      `freebsd`       |      | <ul><li>- [ ] </li></ul> |
-|       `zeabur`       |      | <ul><li>- [ ] </li></ul> |
-|     `vuesticui`      |      | <ul><li>- [ ] </li></ul> |
-|       `quasar`       |      | <ul><li>- [ ] </li></ul> |
-|     `vitepress`      |      | <ul><li>- [ ] </li></ul> |
-|      `rolldown`      |      | <ul><li>- [ ] </li></ul> |
-|  `microwebsockets`   |      | <ul><li>- [ ] </li></ul> |
-|        `vike`        |      | <ul><li>- [ ] </li></ul> |
-|       `podman`       |      | <ul><li>- [ ] </li></ul> |
-|      `esbuild`       |      | <ul><li>- [ ] </li></ul> |
-|       `biome`        |      | <ul><li>- [ ] </li></ul> |
-|     `puppeteer`      |      | <ul><li>- [ ] </li></ul> |
-|      `pkgroll`       |      | <ul><li>- [ ] </li></ul> |
-|       `jotai`        |      | <ul><li>- [ ] </li></ul> |
-|      `tanstack`      |      | <ul><li>- [ ] </li></ul> |
-|      `daisyui`       |      | <ul><li>- [ ] </li></ul> |
-|     `burpsuite`      |      | <ul><li>- [ ] </li></ul> |
-|        `nano`        |      | <ul><li>- [ ] </li></ul> |
-|       `fedora`       |      | <ul><li>- [ ] </li></ul> |
-|      `flatpak`       |      | <ul><li>- [ ] </li></ul> |
-|      `hyprland`      |      | <ul><li>- [ ] </li></ul> |
-|        `sqlc`        |      | <ul><li>- [ ] </li></ul> |
-|      `typeorm`       |      | <ul><li>- [ ] </li></ul> |
-|      `chatgpt`       |      | <ul><li>- [ ] </li></ul> |
-|       `claude`       |      | <ul><li>- [ ] </li></ul> |
-|     `perplexity`     |      | <ul><li>- [ ] </li></ul> |
-|       `gemini`       |      | <ul><li>- [ ] </li></ul> |
-|       `blazor`       |      | <ul><li>- [ ] </li></ul> |
-|       `ffmpeg`       |      | <ul><li>- [ ] </li></ul> |
-|       `lodash`       |      | <ul><li>- [ ] </li></ul> |
-|      `datadog`       |      | <ul><li>- [ ] </li></ul> |
-|     `handlebars`     |      | <ul><li>- [ ] </li></ul> |
-|     `framerone`      |      | <ul><li>- [ ] </li></ul> |
-|        `axos`        |      | <ul><li>- [ ] </li></ul> |
-|       `axios`        |      | <ul><li>- [ ] </li></ul> |
-|       `vmware`       |      | <ul><li>- [ ] </li></ul> |
-|        `gnu`         |      | <ul><li>- [ ] </li></ul> |
-|    `googlesheets`    |      | <ul><li>- [ ] </li></ul> |
-|       `xcode`        |      | <ul><li>- [ ] </li></ul> |
-|    `reactrouter`     |      | <ul><li>- [ ] </li></ul> |
-|     `matplotlib`     |      | <ul><li>- [ ] </li></ul> |
-|     `babylonjs`      |      | <ul><li>- [ ] </li></ul> |
-|      `mongoose`      |      | <ul><li>- [ ] </li></ul> |
-|    `apachejmeter`    |      | <ul><li>- [ ] </li></ul> |
-|      `shopify`       |      | <ul><li>- [ ] </li></ul> |
-|      `geodesdk`      |      | <ul><li>- [ ] </li></ul> |
-|        `odin`        |      | <ul><li>- [ ] </li></ul> |
-|    `crystallang`     |      | <ul><li>- [ ] </li></ul> |
-|      `influxdb`      |      | <ul><li>- [ ] </li></ul> |
-|       `pulimi`       |      | <ul><li>- [ ] </li></ul> |
-|       `polars`       |      | <ul><li>- [ ] </li></ul> |
-|    `cockroachdb`     |      | <ul><li>- [ ] </li></ul> |
-|       `kicad`        |      | <ul><li>- [ ] </li></ul> |
-|        `gsap`        |      | <ul><li>- [ ] </li></ul> |
-|       `pandas`       |      | <ul><li>- [ ] </li></ul> |
-|       `numpy`        |      | <ul><li>- [ ] </li></ul> |
-|      `ghostty`       |      | <ul><li>- [ ] </li></ul> |
-|        `zsh`         |      | <ul><li>- [ ] </li></ul> |
-|      `unicode`       |      | <ul><li>- [ ] </li></ul> |
-|       `love2d`       |      | <ul><li>- [ ] </li></ul> |
-|     `pinescript`     |      | <ul><li>- [ ] </li></ul> |
-|    `huggingface`     |      | <ul><li>- [ ] </li></ul> |
-|     `timeshift`      |      | <ul><li>- [ ] </li></ul> |
-|        `jira`        |      | <ul><li>- [ ] </li></ul> |
-|       `render`       |      | <ul><li>- [ ] </li></ul> |
-|        `r3f`         |      | <ul><li>- [ ] </li></ul> |
-|        `r3r`         |      | <ul><li>- [ ] </li></ul> |
-|      `phoenix`       |      | <ul><li>- [ ] </li></ul> |
-|     `antdesign`      |      | <ul><li>- [ ] </li></ul> |
-|     `karpenter`      |      | <ul><li>- [ ] </li></ul> |
-|       `twine`        |      | <ul><li>- [ ] </li></ul> |
-|       `ionic`        |      | <ul><li>- [ ] </li></ul> |
-|     `turborepo`      |      | <ul><li>- [ ] </li></ul> |
-|       `batch`        |      | <ul><li>- [ ] </li></ul> |
-|        `fork`        |      | <ul><li>- [ ] </li></ul> |
-|      `foundry`       |      | <ul><li>- [ ] </li></ul> |
-|     `stackblitz`     |      | <ul><li>- [ ] </li></ul> |
-|       `revolt`       |      | <ul><li>- [ ] </li></ul> |
-|      `cucumber`      |      | <ul><li>- [ ] </li></ul> |
-|     `notepadpp`      |      | <ul><li>- [ ] </li></ul> |
-|    `webdriverio`     |      | <ul><li>- [ ] </li></ul> |
-|       `defold`       |      | <ul><li>- [ ] </li></ul> |
-|       `resend`       |      | <ul><li>- [ ] </li></ul> |
-|       `havok`        |      | <ul><li>- [ ] </li></ul> |
-|      `audacity`      |      | <ul><li>- [ ] </li></ul> |
-|      `doppler`       |      | <ul><li>- [ ] </li></ul> |
-|      `firebird`      |      | <ul><li>- [ ] </li></ul> |
-|       `ollama`       |      | <ul><li>- [ ] </li></ul> |
-|       `trello`       |      | <ul><li>- [ ] </li></ul> |
-|       `slack`        |      | <ul><li>- [ ] </li></ul> |
-|       `linear`       |      | <ul><li>- [ ] </li></ul> |
-|        `mojo`        |      | <ul><li>- [ ] </li></ul> |
-|       `gleam`        |      | <ul><li>- [ ] </li></ul> |
-|     `protonmail`     |      | <ul><li>- [ ] </li></ul> |
-|     `rustrover`      |      | <ul><li>- [ ] </li></ul> |
-|      `rubymine`      |      | <ul><li>- [ ] </li></ul> |
-|       `goland`       |      | <ul><li>- [ ] </li></ul> |
-|      `datagrip`      |      | <ul><li>- [ ] </li></ul> |
-|       `gitea`        |      | <ul><li>- [ ] </li></ul> |
-|      `semgrep`       |      | <ul><li>- [ ] </li></ul> |
-|    `googlecolab`     |      | <ul><li>- [ ] </li></ul> |
-|      `chakraui`      |      | <ul><li>- [ ] </li></ul> |
-|       `twitch`       |      | <ul><li>- [ ] </li></ul> |
-|      `comfyui`       |      | <ul><li>- [ ] </li></ul> |
-|      `aseprite`      |      | <ul><li>- [ ] </li></ul> |
-|      `drizzle`       |      | <ul><li>- [ ] </li></ul> |
-|     `drizzleorm`     |      | <ul><li>- [ ] </li></ul> |
-|      `leaflet`       |      | <ul><li>- [ ] </li></ul> |
-|       `lunacy`       |      | <ul><li>- [ ] </li></ul> |
-|       `pygame`       |      | <ul><li>- [ ] </li></ul> |
-|        `cuda`        |      | <ul><li>- [ ] </li></ul> |
-|       `icedrs`       |      | <ul><li>- [ ] </li></ul> |
-| `oraclesqldeveloper` |      | <ul><li>- [ ] </li></ul> |
-|         `vi`         |      | <ul><li>- [ ] </li></ul> |
-|      `livewire`      |      | <ul><li>- [ ] </li></ul> |
-|    `lightningcss`    |      | <ul><li>- [ ] </li></ul> |
-|       `stylus`       |      | <ul><li>- [ ] </li></ul> |
-|      `recharts`      |      | <ul><li>- [ ] </li></ul> |
-|      `shadcnui`      |      | <ul><li>- [ ] </li></ul> |
-|         `d`          |      | <ul><li>- [ ] </li></ul> |
-|      `angular`       |      | <ul><li>- [ ] </li></ul> |
-|       `pillow`       |      | <ul><li>- [ ] </li></ul> |
-|        `arc`         |      | <ul><li>- [ ] </li></ul> |
-|        `zen`         |      | <ul><li>- [ ] </li></ul> |
-|        `qmk`         |      | <ul><li>- [ ] </li></ul> |
-|        `yii`         |      | <ul><li>- [ ] </li></ul> |
-|      `dbeaver`       |      | <ul><li>- [ ] </li></ul> |
-|    `digitalocean`    |      | <ul><li>- [ ] </li></ul> |
-|    `planetscale`     |      | <ul><li>- [ ] </li></ul> |
-|       `neondb`       |      | <ul><li>- [ ] </li></ul> |
-|       `lumen`        |      | <ul><li>- [ ] </li></ul> |
-|       `groovy`       |      | <ul><li>- [ ] </li></ul> |
-|        `orca`        |      | <ul><li>- [ ] </li></ul> |
-|        `lynx`        |      | <ul><li>- [ ] </li></ul> |
-|      `zustand`       |      | <ul><li>- [ ] </li></ul> |
-|       `nextui`       |      | <ul><li>- [ ] </li></ul> |
-|      `radixui`       |      | <ul><li>- [ ] </li></ul> |
-|      `directus`      |      | <ul><li>- [ ] </li></ul> |
-|    `visualbasic`     |      | <ul><li>- [ ] </li></ul> |
-|        `tidb`        |      | <ul><li>- [ ] </li></ul> |
-|       `milvus`       |      | <ul><li>- [ ] </li></ul> |
-|       `opengl`       |      | <ul><li>- [ ] </li></ul> |
-|        `trpc`        |      | <ul><li>- [ ] </li></ul> |
-|       `holyc`        |      | <ul><li>- [ ] </li></ul> |
-|      `rubymine`      |      | <ul><li>- [ ] </li></ul> |
-|        `zoom`        |      | <ul><li>- [ ] </li></ul> |
-|       `pascal`       |      | <ul><li>- [ ] </li></ul> |
-|       `turso`        |      | <ul><li>- [ ] </li></ul> |
-|       `turst`        |      | <ul><li>- [ ] </li></ul> |
-|        `twig`        |      | <ul><li>- [ ] </li></ul> |
-|      `opensuse`      |      | <ul><li>- [ ] </li></ul> |
-|       `joomla`       |      | <ul><li>- [ ] </li></ul> |
-|       `excel`        |      | <ul><li>- [ ] </li></ul> |
-|     `pocketbase`     |      | <ul><li>- [ ] </li></ul> |
-|      `scratch`       |      | <ul><li>- [ ] </li></ul> |
-|      `microtik`      |      | <ul><li>- [ ] </li></ul> |
-|        `vyos`        |      | <ul><li>- [ ] </li></ul> |
-|       `pihole`       |      | <ul><li>- [ ] </li></ul> |
-|       `stripe`       |      | <ul><li>- [ ] </li></ul> |
-|       `auth0`        |      | <ul><li>- [ ] </li></ul> |
-|     `betterauth`     |      | <ul><li>- [ ] </li></ul> |
-|    `supertokens`     |      | <ul><li>- [ ] </li></ul> |
-|      `swiftui`       |      | <ul><li>- [ ] </li></ul> |
-|      `effector`      |      | <ul><li>- [ ] </li></ul> |
-|        `odoo`        |      | <ul><li>- [ ] </li></ul> |
-|      `fastify`       |      | <ul><li>- [ ] </li></ul> |
-|       `typst`        |      | <ul><li>- [ ] </li></ul> |
-|     `springboot`     |      | <ul><li>- [ ] </li></ul> |
-|        `warp`        |      | <ul><li>- [ ] </li></ul> |
-|        `lvgl`        |      | <ul><li>- [ ] </li></ul> |
-|     `adobefonts`     |      | <ul><li>- [ ] </li></ul> |
-|    `dreamweaver`     |      | <ul><li>- [ ] </li></ul> |
-|   `homeassistant`    |      | <ul><li>- [ ] </li></ul> |
-|      `blazejs`       |      | <ul><li>- [ ] </li></ul> |
-|     `payloadcms`     |      | <ul><li>- [ ] </li></ul> |
-|        `expo`        |      | <ul><li>- [ ] </li></ul> |
-|       `grails`       |      | <ul><li>- [ ] </li></ul> |
-|       `cobol`        |      | <ul><li>- [ ] </li></ul> |
-|     `capacitor`      |      | <ul><li>- [ ] </li></ul> |
-|     `googleapi`      |      | <ul><li>- [ ] </li></ul> |
-|      `ibmcloud`      |      | <ul><li>- [ ] </li></ul> |
-|     `knockoutjs`     |      | <ul><li>- [ ] </li></ul> |
-|    `codesandbox`     |      | <ul><li>- [ ] </li></ul> |
-|        `kofi`        |      | <ul><li>- [ ] </li></ul> |
-|     `wireshark`      |      | <ul><li>- [ ] </li></ul> |
-|     `solidstart`     |      | <ul><li>- [ ] </li></ul> |
-|       `knexjs`       |      | <ul><li>- [ ] </li></ul> |
-|      `mantine`       |      | <ul><li>- [ ] </li></ul> |
-|        `gin`         |      | <ul><li>- [ ] </li></ul> |
-|       `javafx`       |      | <ul><li>- [ ] </li></ul> |
-|       `drawio`       |      | <ul><li>- [ ] </li></ul> |
-|     `virtualbox`     |      | <ul><li>- [ ] </li></ul> |
-|     `codeblocks`     |      | <ul><li>- [ ] </li></ul> |
-|     `reactquery`     |      | <ul><li>- [ ] </li></ul> |
-|       `erlang`       |      | <ul><li>- [ ] </li></ul> |
-|     `turbopack`      |      | <ul><li>- [ ] </li></ul> |
-|  `jupyternotebook`   |      | <ul><li>- [ ] </li></ul> |
-|    `applescript`     |      | <ul><li>- [ ] </li></ul> |
-|        `lisp`        |      | <ul><li>- [ ] </li></ul> |
-|    `vscinsiders`     |      | <ul><li>- [ ] </li></ul> |
-|    `sublimetext`     |      | <ul><li>- [ ] </li></ul> |
-|     `sveltekit`      |      | <ul><li>- [ ] </li></ul> |
-|        `jsr`         |      | <ul><li>- [ ] </li></ul> |
-|        `tmux`        |      | <ul><li>- [ ] </li></ul> |
-|   `testcontainers`   |      | <ul><li>- [ ] </li></ul> |
-|        `zod`         |      | <ul><li>- [ ] </li></ul> |
-|   `standardschema`   |      | <ul><li>- [ ] </li></ul> |
-|       `pixijs`       |      | <ul><li>- [ ] </li></ul> |
-|     `awslambda`      |      | <ul><li>- [ ] </li></ul> |
-|        `rxjs`        |      | <ul><li>- [ ] </li></ul> |
-|        `quik`        |      | <ul><li>- [ ] </li></ul> |
-|      `nextauth`      |      | <ul><li>- [ ] </li></ul> |
-|   `googlebigquery`   |      | <ul><li>- [ ] </li></ul> |
-|       `julia`        |      | <ul><li>- [ ] </li></ul> |
-|   `opentelemetry`    |      | <ul><li>- [ ] </li></ul> |
-|        `elm`         |      | <ul><li>- [ ] </li></ul> |
-|       `flyio`        |      | <ul><li>- [ ] </li></ul> |
-|       `webrtc`       |      | <ul><li>- [ ] </li></ul> |
-|       `kaggle`       |      | <ul><li>- [ ] </li></ul> |
-|         `vb`         |      | <ul><li>- [ ] </li></ul> |
-|        `vba`         |      | <ul><li>- [ ] </li></ul> |
-|      `vbscript`      |      | <ul><li>- [ ] </li></ul> |
-|       `delphi`       |      | <ul><li>- [ ] </li></ul> |
-|       `reatom`       |      | <ul><li>- [ ] </li></ul> |
-|      `scylladb`      |      | <ul><li>- [ ] </li></ul> |
-|        `ajax`        |      | <ul><li>- [ ] </li></ul> |
-|        `mui`         |      | <ul><li>- [ ] </li></ul> |
-|      `protobuf`      |      | <ul><li>- [ ] </li></ul> |
-|        `grpc`        |      | <ul><li>- [ ] </li></ul> |
-|     `clickhouse`     |      | <ul><li>- [ ] </li></ul> |
-|      `postcss`       |      | <ul><li>- [ ] </li></ul> |
-|    `fontawesome`     |      | <ul><li>- [ ] </li></ul> |
-|        `hexo`        |      | <ul><li>- [ ] </li></ul> |
-|    `px4autopilot`    |      | <ul><li>- [ ] </li></ul> |
-|       `mocha`        |      | <ul><li>- [ ] </li></ul> |
-|        `chai`        |      | <ul><li>- [ ] </li></ul> |
-|      `xamarin`       |      | <ul><li>- [ ] </li></ul> |
-|       `vulkan`       |      | <ul><li>- [ ] </li></ul> |
-|      `directX`       |      | <ul><li>- [ ] </li></ul> |
-|     `surrealdb`      |      | <ul><li>- [ ] </li></ul> |
-|        `venv`        |      | <ul><li>- [ ] </li></ul> |
-|       `gentoo`       |      | <ul><li>- [ ] </li></ul> |
-
 # New versions of icons to update
 
-|   Icon ID   | Icon |         Finished         |
-| :---------: | :--: | :----------------------: |
-| `firebase`  |      | <ul><li>- [ ] </li></ul> |
-|     `x`     |      | <ul><li>- [ ] </li></ul> |
-|   `deno`    |      | <ul><li>- [ ] </li></ul> |
-|     `c`     |      | <ul><li>- [ ] </li></ul> |
-|    `css`    |      | <ul><li>- [ ] </li></ul> |
-| `jetbrains` |      | <ul><li>- [ ] </li></ul> |
-|   `ocaml`   |      | <ul><li>- [ ] </li></ul> |
-|   `ember`   |      | <ul><li>- [ ] </li></ul> |
-|  `angular`  |      | <ul><li>- [ ] </li></ul> |
+|   Icon ID   | Icon |
+| :---------: | :--: |
+| `firebase`  |      |
+|     `x`     |      |
+|   `deno`    |      |
+|     `c`     |      |
+|    `css`    |      |
+| `jetbrains` |      |
+|   `ocaml`   |      |
+|   `ember`   |      |
+|  `angular`  | <img src="https://icon-worker.filipsysak.workers.dev/icons?i=angular&s=35" /> |
+
+# New icons progress
+
+|       Icon ID        | Icon |
+| :------------------: | :--: |
+|        `hono`        | <img src="https://icon-worker.filipsysak.workers.dev/icons?i=hono&s=35" /> |
+|      `vagrant`       | <img src="https://icon-worker.filipsysak.workers.dev/icons?i=vagrant&s=35" /> |
+|       `gofiber`        | <img src="https://icon-worker.filipsysak.workers.dev/icons?i=gofiber&s=35" /> |
+|       `medium`       | <img src="https://icon-worker.filipsysak.workers.dev/icons?i=medium&s=35" /> |
+|      `geogebra`      | <img src="https://icon-worker.filipsysak.workers.dev/icons?i=geogebra&s=35" /> |
+|      `wolfram`       | <img src="https://icon-worker.filipsysak.workers.dev/icons?i=wolfram&s=35" /> |
+|   `jetpackcompose`   | <img src="https://icon-worker.filipsysak.workers.dev/icons?i=jetpackcompose&s=35" /> |
+|       `canva`        | <img src="https://icon-worker.filipsysak.workers.dev/icons?i=canva&s=35" /> |
+|      `fivetran`      | <img src="https://icon-worker.filipsysak.workers.dev/icons?i=fivetran&s=35" /> |
+|      `oracledb`      |      |
+|       `mssql`        |      |
+|      `tableau`       |      |
+|       `msdos`        |      |
+|     `inertiajs`      |      |
+|     `servicenow`     |      |
+|    `flutterflow`     |      |
+|      `netbeans`      |      |
+|        `bsky`        |      |
+|      `youtube`       |      |
+|        `helm`        |      |
+|     `playcanvas`     |      |
+|        `stan`        |      |
+|       `xhtml`        |      |
+|       `payara`       |      |
+|       `testng`       |      |
+|      `fastlane`      |      |
+|       `steam`        |      |
+|      `mariadb`       |      |
+|       `spline`       |      |
+|   `dockerjetpack`    |      |
+|   `davinciresolve`   |      |
+|       `motoko`       |      |
+|       `framer`       |      |
+|     `devextreme`     |      |
+|      `hashnode`      |      |
+|    `reactnative`     |      |
+|      `vegaspro`      |      |
+|        `pwa`         |      |
+|       `cpanel`       |      |
+|    `intellijidea`    |      |
+|     `lightroom`      |      |
+|       `stata`        |      |
+|       `lottie`       |      |
+|       `pytest`       |      |
+|      `leetcode`      |      |
+|      `navicat`       |      |
+|       `argocd`       |      |
+|      `coolify`       |      |
+|        `gimp`        |      |
+|       `unocss`       |      |
+|      `socketio`      |      |
+|      `posthog`       |      |
+|     `passportjs`     |      |
+|       `appium`       |      |
+|     `snowflake`      |      |
+|        `dbt`         |      |
+|       `xampp`        |      |
+|       `eslint`       |      |
+|     `playwright`     |      |
+|       `rspack`       |      |
+|      `rsbuild`       |      |
+|     `storybook`      |      |
+|      `mermaid`       |      |
+|       `neo4j`        |      |
+|        `jwt`         |      |
+|     `skeletonui`     |      |
+|      `twillio`       |      |
+|     `streamlit`      |      |
+|      `insomnia`      |      |
+|      `flstudio`      |      |
+|        `sap`         |      |
+|        `abap`        |      |
+|      `assembly`      |      |
+|  `affinitydesigner`  |      |
+|   `affinityphoto`    |      |
+| `affinitypublisher`  |      |
+|      `inkscape`      |      |
+|     `fusion360`      |      |
+|      `gromacs`       |      |
+|      `robotpy`       |      |
+|       `bruno`        |      |
+|     `objectivec`     |      |
+|      `freebsd`       |      |
+|       `zeabur`       |      |
+|     `vuesticui`      |      |
+|       `quasar`       |      |
+|     `vitepress`      |      |
+|      `rolldown`      |      |
+|  `microwebsockets`   |      |
+|        `vike`        |      |
+|       `podman`       |      |
+|      `esbuild`       |      |
+|       `biome`        |      |
+|     `puppeteer`      |      |
+|      `pkgroll`       |      |
+|       `jotai`        |      |
+|      `tanstack`      |      |
+|      `daisyui`       |      |
+|     `burpsuite`      |      |
+|        `nano`        |      |
+|       `fedora`       |      |
+|      `flatpak`       |      |
+|      `hyprland`      |      |
+|        `sqlc`        |      |
+|      `typeorm`       |      |
+|      `chatgpt`       |      |
+|       `claude`       |      |
+|     `perplexity`     |      |
+|       `gemini`       |      |
+|       `blazor`       |      |
+|       `ffmpeg`       |      |
+|       `lodash`       |      |
+|      `datadog`       |      |
+|     `handlebars`     |      |
+|     `framerone`      |      |
+|        `axos`        |      |
+|       `axios`        |      |
+|       `vmware`       |      |
+|        `gnu`         |      |
+|    `googlesheets`    |      |
+|       `xcode`        |      |
+|    `reactrouter`     |      |
+|     `matplotlib`     |      |
+|     `babylonjs`      |      |
+|      `mongoose`      |      |
+|    `apachejmeter`    |      |
+|      `shopify`       |      |
+|      `geodesdk`      |      |
+|        `odin`        |      |
+|    `crystallang`     |      |
+|      `influxdb`      |      |
+|       `pulimi`       |      |
+|       `polars`       |      |
+|    `cockroachdb`     |      |
+|       `kicad`        |      |
+|        `gsap`        |      |
+|       `pandas`       |      |
+|       `numpy`        |      |
+|      `ghostty`       |      |
+|        `zsh`         |      |
+|      `unicode`       |      |
+|       `love2d`       |      |
+|     `pinescript`     |      |
+|    `huggingface`     |      |
+|     `timeshift`      |      |
+|        `jira`        |      |
+|       `render`       |      |
+|        `r3f`         |      |
+|        `r3r`         |      |
+|      `phoenix`       |      |
+|     `antdesign`      |      |
+|     `karpenter`      |      |
+|       `twine`        |      |
+|       `ionic`        |      |
+|     `turborepo`      |      |
+|       `batch`        |      |
+|        `fork`        |      |
+|      `foundry`       |      |
+|     `stackblitz`     |      |
+|       `revolt`       |      |
+|      `cucumber`      |      |
+|     `notepadpp`      |      |
+|    `webdriverio`     |      |
+|       `defold`       |      |
+|       `resend`       |      |
+|       `havok`        |      |
+|      `audacity`      |      |
+|      `doppler`       |      |
+|      `firebird`      |      |
+|       `ollama`       |      |
+|       `trello`       |      |
+|       `slack`        |      |
+|       `linear`       |      |
+|        `mojo`        |      |
+|       `gleam`        |      |
+|     `protonmail`     |      |
+|     `rustrover`      |      |
+|      `rubymine`      |      |
+|       `goland`       |      |
+|      `datagrip`      |      |
+|       `gitea`        |      |
+|      `semgrep`       |      |
+|    `googlecolab`     |      |
+|      `chakraui`      |      |
+|       `twitch`       |      |
+|      `comfyui`       |      |
+|      `aseprite`      |      |
+|      `drizzle`       |      |
+|     `drizzleorm`     |      |
+|      `leaflet`       |      |
+|       `lunacy`       |      |
+|       `pygame`       |      |
+|        `cuda`        |      |
+|       `icedrs`       |      |
+| `oraclesqldeveloper` |      |
+|         `vi`         |      |
+|      `livewire`      |      |
+|    `lightningcss`    |      |
+|       `stylus`       |      |
+|      `recharts`      |      |
+|      `shadcnui`      |      |
+|         `d`          |      |
+|      `angular`       |      |
+|       `pillow`       |      |
+|        `arc`         |      |
+|        `zen`         |      |
+|        `qmk`         |      |
+|        `yii`         |      |
+|      `dbeaver`       |      |
+|    `digitalocean`    |      |
+|    `planetscale`     |      |
+|       `neondb`       |      |
+|       `lumen`        |      |
+|       `groovy`       |      |
+|        `orca`        |      |
+|        `lynx`        |      |
+|      `zustand`       |      |
+|       `nextui`       |      |
+|      `radixui`       |      |
+|      `directus`      |      |
+|    `visualbasic`     |      |
+|        `tidb`        |      |
+|       `milvus`       |      |
+|       `opengl`       |      |
+|        `trpc`        |      |
+|       `holyc`        |      |
+|      `rubymine`      |      |
+|        `zoom`        |      |
+|       `pascal`       |      |
+|       `turso`        |      |
+|       `turst`        |      |
+|        `twig`        |      |
+|      `opensuse`      |      |
+|       `joomla`       |      |
+|       `excel`        |      |
+|     `pocketbase`     |      |
+|      `scratch`       |      |
+|      `microtik`      |      |
+|        `vyos`        |      |
+|       `pihole`       |      |
+|       `stripe`       |      |
+|       `auth0`        |      |
+|     `betterauth`     |      |
+|    `supertokens`     |      |
+|      `swiftui`       |      |
+|      `effector`      |      |
+|        `odoo`        |      |
+|      `fastify`       |      |
+|       `typst`        |      |
+|     `springboot`     |      |
+|        `warp`        |      |
+|        `lvgl`        |      |
+|     `adobefonts`     |      |
+|    `dreamweaver`     |      |
+|   `homeassistant`    |      |
+|      `blazejs`       |      |
+|     `payloadcms`     |      |
+|        `expo`        |      |
+|       `grails`       |      |
+|       `cobol`        |      |
+|     `capacitor`      |      |
+|     `googleapi`      |      |
+|      `ibmcloud`      |      |
+|     `knockoutjs`     |      |
+|    `codesandbox`     |      |
+|        `kofi`        |      |
+|     `wireshark`      |      |
+|     `solidstart`     |      |
+|       `knexjs`       |      |
+|      `mantine`       |      |
+|        `gin`         |      |
+|       `javafx`       |      |
+|       `drawio`       |      |
+|     `virtualbox`     |      |
+|     `codeblocks`     |      |
+|     `reactquery`     |      |
+|       `erlang`       |      |
+|     `turbopack`      |      |
+|  `jupyternotebook`   |      |
+|    `applescript`     |      |
+|        `lisp`        |      |
+|    `vscinsiders`     |      |
+|    `sublimetext`     |      |
+|     `sveltekit`      |      |
+|        `jsr`         |      |
+|        `tmux`        |      |
+|   `testcontainers`   |      |
+|        `zod`         |      |
+|   `standardschema`   |      |
+|       `pixijs`       |      |
+|     `awslambda`      |      |
+|        `rxjs`        |      |
+|        `quik`        |      |
+|      `nextauth`      |      |
+|   `googlebigquery`   |      |
+|       `julia`        |      |
+|   `opentelemetry`    |      |
+|        `elm`         |      |
+|       `flyio`        |      |
+|       `webrtc`       |      |
+|       `kaggle`       |      |
+|         `vb`         |      |
+|        `vba`         |      |
+|      `vbscript`      |      |
+|       `delphi`       |      |
+|       `reatom`       |      |
+|      `scylladb`      |      |
+|        `ajax`        |      |
+|        `mui`         |      |
+|      `protobuf`      |      |
+|        `grpc`        |      |
+|     `clickhouse`     |      |
+|      `postcss`       |      |
+|    `fontawesome`     |      |
+|        `hexo`        |      |
+|    `px4autopilot`    |      |
+|       `mocha`        |      |
+|        `chai`        |      |
+|      `xamarin`       |      |
+|       `vulkan`       |      |
+|      `directX`       |      |
+|     `surrealdb`      |      |
+|        `venv`        |      |
+|       `gentoo`       |      |
 
 # Icons List
 
