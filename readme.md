@@ -195,19 +195,19 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 |   `jetpackcompose`   | <img src="https://icon-worker.filipsysak.workers.dev/icons?i=jetpackcompose&s=35" /> |
 |       `canva`        |     <img src="https://icon-worker.filipsysak.workers.dev/icons?i=canva&s=35" />      |
 |      `fivetran`      |    <img src="https://icon-worker.filipsysak.workers.dev/icons?i=fivetran&s=35" />    |
-|      `oracledb`      |                                                                                      |
-|       `mssql`        |                                                                                      |
-|      `tableau`       |                                                                                      |
-|       `msdos`        |                                                                                      |
-|     `inertiajs`      |                                                                                      |
+|       `oracle`       |     <img src="https://icon-worker.filipsysak.workers.dev/icons?i=oracle&s=35" />     |
+|       `mssql`        |     <img src="https://icon-worker.filipsysak.workers.dev/icons?i=mssql&s=35" />      |
+|      `tableau`       |     <img src="https://icon-worker.filipsysak.workers.dev/icons?i=tableau&s=35" />    |
+|       `msdos`        |    <img src="https://icon-worker.filipsysak.workers.dev/icons?i=msdos&s=35" />       |
+|     `inertiajs`      |   <img src="https://icon-worker.filipsysak.workers.dev/icons?i=inertiajs&s=35" />    |
 |     `servicenow`     |                                                                                      |
-|    `flutterflow`     |                                                                                      |
-|      `netbeans`      |                                                                                      |
-|        `bsky`        |                                                                                      |
+|    `flutterflow`     |   <img src="https://icon-worker.filipsysak.workers.dev/icons?i=flutterflow&s=35" />  |
+|      `netbeans`      |    <img src="https://icon-worker.filipsysak.workers.dev/icons?i=netbeans&s=35" />    |
+|        `bsky`        |      <img src="https://icon-worker.filipsysak.workers.dev/icons?i=bsky&s=35" />      |
 |      `youtube`       |                                                                                      |
-|        `helm`        |                                                                                      |
+|        `helm`        |      <img src="https://icon-worker.filipsysak.workers.dev/icons?i=helm&s=35" />      |
 |     `playcanvas`     |                                                                                      |
-|        `stan`        |                                                                                      |
+|        `stan`        |      <img src="https://icon-worker.filipsysak.workers.dev/icons?i=stan&s=35" />      |
 |       `xhtml`        |                                                                                      |
 |       `payara`       |                                                                                      |
 |       `testng`       |                                                                                      |
