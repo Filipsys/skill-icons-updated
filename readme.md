@@ -172,14 +172,14 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 
 |   Icon ID   |                                     Icon                                      |
 | :---------: | :---------------------------------------------------------------------------: |
-| `firebase`  |                                                                               |
-|     `x`     |                                                                               |
-|   `deno`    |                                                                               |
+| `firebase`  | <img src="https://icon-worker.filipsysak.workers.dev/icons?i=firebase&s=35" />|
+|     `x`     |   <img src="https://icon-worker.filipsysak.workers.dev/icons?i=x&s=35" />     |
+|   `deno`    |  <img src="https://icon-worker.filipsysak.workers.dev/icons?i=deno&s=35" />   |
 |     `c`     |                                                                               |
-|    `css`    |                                                                               |
+|    `css`    |   <img src="https://icon-worker.filipsysak.workers.dev/icons?i=css&s=35" />   |
 | `jetbrains` |                                                                               |
-|   `ocaml`   |                                                                               |
-|   `ember`   |                                                                               |
+|   `ocaml`   |  <img src="https://icon-worker.filipsysak.workers.dev/icons?i=ocaml&s=35" />  |
+|   `ember`   |  <img src="https://icon-worker.filipsysak.workers.dev/icons?i=ember&s=35" />  |
 |  `angular`  | <img src="https://icon-worker.filipsysak.workers.dev/icons?i=angular&s=35" /> |
 
 # New icons progress
