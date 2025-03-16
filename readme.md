@@ -175,9 +175,7 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 | `firebase`  | <img src="https://icon-worker.filipsysak.workers.dev/icons?i=firebase&s=35" />|
 |     `x`     |   <img src="https://icon-worker.filipsysak.workers.dev/icons?i=x&s=35" />     |
 |   `deno`    |  <img src="https://icon-worker.filipsysak.workers.dev/icons?i=deno&s=35" />   |
-|     `c`     |                                                                               |
 |    `css`    |   <img src="https://icon-worker.filipsysak.workers.dev/icons?i=css&s=35" />   |
-| `jetbrains` |                                                                               |
 |   `ocaml`   |  <img src="https://icon-worker.filipsysak.workers.dev/icons?i=ocaml&s=35" />  |
 |   `ember`   |  <img src="https://icon-worker.filipsysak.workers.dev/icons?i=ember&s=35" />  |
 |  `angular`  | <img src="https://icon-worker.filipsysak.workers.dev/icons?i=angular&s=35" /> |
@@ -200,35 +198,27 @@ Want to center the icons in your readme? The SVGs are automatically resized, so 
 |      `tableau`       |     <img src="https://icon-worker.filipsysak.workers.dev/icons?i=tableau&s=35" />    |
 |       `msdos`        |    <img src="https://icon-worker.filipsysak.workers.dev/icons?i=msdos&s=35" />       |
 |     `inertiajs`      |   <img src="https://icon-worker.filipsysak.workers.dev/icons?i=inertiajs&s=35" />    |
-|     `servicenow`     |                                                                                      |
 |    `flutterflow`     |   <img src="https://icon-worker.filipsysak.workers.dev/icons?i=flutterflow&s=35" />  |
 |      `netbeans`      |    <img src="https://icon-worker.filipsysak.workers.dev/icons?i=netbeans&s=35" />    |
 |        `bsky`        |      <img src="https://icon-worker.filipsysak.workers.dev/icons?i=bsky&s=35" />      |
-|      `youtube`       |                                                                                      |
 |        `helm`        |      <img src="https://icon-worker.filipsysak.workers.dev/icons?i=helm&s=35" />      |
 |     `playcanvas`     |                                                                                      |
 |        `stan`        |      <img src="https://icon-worker.filipsysak.workers.dev/icons?i=stan&s=35" />      |
-|       `xhtml`        |                                                                                      |
-|       `payara`       |                                                                                      |
+|       `payara`       |     <img src="https://icon-worker.filipsysak.workers.dev/icons?i=payara&s=35" />     |
 |       `testng`       |                                                                                      |
-|      `fastlane`      |                                                                                      |
-|       `steam`        |                                                                                      |
-|      `mariadb`       |                                                                                      |
-|       `spline`       |                                                                                      |
-|   `dockerjetpack`    |                                                                                      |
-|   `davinciresolve`   |                                                                                      |
+|      `fastlane`      |     <img src="https://icon-worker.filipsysak.workers.dev/icons?i=fastlane&s=35" />   |
+|     `servicenow`     |                                                                                      |
+|      `mariadb`       |     <img src="https://icon-worker.filipsysak.workers.dev/icons?i=mariadb&s=35" />    |
+|       `spline`       |     <img src="https://icon-worker.filipsysak.workers.dev/icons?i=spline&s=35" />     |
 |       `motoko`       |                                                                                      |
-|       `framer`       |                                                                                      |
+|       `framer`       |     <img src="https://icon-worker.filipsysak.workers.dev/icons?i=framer&s=35" />     |
 |     `devextreme`     |                                                                                      |
-|      `hashnode`      |                                                                                      |
-|    `reactnative`     |                                                                                      |
-|      `vegaspro`      |                                                                                      |
-|        `pwa`         |                                                                                      |
-|       `cpanel`       |                                                                                      |
-|    `intellijidea`    |                                                                                      |
-|     `lightroom`      |                                                                                      |
-|       `stata`        |                                                                                      |
-|       `lottie`       |                                                                                      |
+|      `hashnode`      |     <img src="https://icon-worker.filipsysak.workers.dev/icons?i=hashnode&s=35" />   |
+|        `pwa`         |      <img src="https://icon-worker.filipsysak.workers.dev/icons?i=pwa&s=35" />       |
+|       `cpanel`       |     <img src="https://icon-worker.filipsysak.workers.dev/icons?i=cpanel&s=35" />     |
+|     `lightroom`      |    <img src="https://icon-worker.filipsysak.workers.dev/icons?i=lightroom&s=35" />   |
+|       `stata`        |     <img src="https://icon-worker.filipsysak.workers.dev/icons?i=stata&s=35" />      |
+|     `lottiefiles`    |                                                                                      |
 |       `pytest`       |                                                                                      |
 |      `leetcode`      |                                                                                      |
 |      `navicat`       |                                                                                      |
